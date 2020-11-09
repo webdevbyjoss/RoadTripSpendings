@@ -1,0 +1,35 @@
+.App {
+    display: block;
+}
+
+.payments_details {
+    display: block;
+}
+
+.payments_details h3 {
+    color: white;
+}
+
+.main_content {
+    display: block;
+}
+
+.form-check-input {
+    margin-top: 20px;
+}
+
+.debt {
+    color: red;
+    float: right;
+}
+
+.noDebt {
+    color: cornflowerblue;
+    float: right;
+}
+
+.neutral {
+    color: gray;
+    float: right;
+}
+
